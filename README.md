@@ -1,3 +1,8 @@
+# Note: 
+
+The reason for this fork is upgrading the qpdf version to 8.x.x that has fixed a lot of issues of previous version
+
+
 # Heroku Buildpack QPDF
 
 This is a Heroku buildpack for using `qpdf` in your project.
